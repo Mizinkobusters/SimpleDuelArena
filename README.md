@@ -1,4 +1,4 @@
-# KitPvPReloaded
+# SimpleDuelArena
 ## 概要
 
 [アジ鯖](https://azisaba.net/)のミニ鯖 Miz-PvPサーバー用に制作したDuelプラグイン。
@@ -7,7 +7,7 @@
 
 ## 機能
 
-- Duel機能
+- 1vs1(PvP)機能
 
 ## 製作者
 
